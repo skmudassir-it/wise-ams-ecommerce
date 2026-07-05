@@ -1,687 +1,1546 @@
-# INSTAGRAM SHOP — CAPTIONS & REELS SCRIPTS
+# 📸 INSTAGRAM SHOP — 57 PRODUCT SNIPPETS
 
-## Format: Category → Caption Template → Hashtags → Reel Idea
+> **Store:** Wise AMS Everyday Essentials · **Site:** wise-ams-ecommerce.vercel.app
 
----
-### Silicone Cooking Utensils Set ($19.99)
-
-**📸 Caption:**
-Save your pans! 🍳 Heat-resistant silicone utensils that won't scratch non-stick cookware. Dishwasher safe, ergonomic handles.
-
-💰 $19.99 — Link in bio to shop! 🔗
-
-**🏷️ Hashtags:** #KitchenEssentials #CookingTools #TikTokMadeMeBuyIt #HomeHacks #KitchenDining
-
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+> **Format:** Caption → Hashtags → Stories → Reel Script
 
 ---
-### Electric Salt & Pepper Grinders ($24.99)
 
-**📸 Caption:**
-One-touch seasoning magic 🧂⚡ Electric grinders with adjustable coarseness + LED light. No more wrist twisting!
+## Silicone Cooking Utensils Set  —  $19.99
 
-💰 $24.99 — Link in bio to shop! 🔗
+**Category:** Kitchen & Dining
 
-**🏷️ Hashtags:** #KitchenGadgets #SaltAndPepper #CookingHack #KitchenUpgrade #KitchenDining
+### 📱 Feed Post Caption
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+Heat-resistant silicone utensils that won't scratch your cookware. Perfect for non-stick pans. 💰 Only $19.99. Tap the link in our bio to shop! 🔗✨
 
----
-### Sink Drain Strainer / Stopper ($9.99)
+### 🏷️ Hashtags (max 30)
 
-**📸 Caption:**
-The $10 kitchen hero 🕳️ Universal silicone strainer that catches EVERYTHING. Doubles as a stopper. No more clogged drains!
+#KitchenDining #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #KitchenFinds
 
-💰 $9.99 — Link in bio to shop! 🔗
+### 📖 Story Sequence (3 slides)
 
-**🏷️ Hashtags:** #KitchenOrganization #SinkHack #Under10 #HomeEssentials #KitchenDining
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+### 🎬 Reel Script (15-30 sec)
 
----
-### Silicone Oven Mitts ($14.99)
-
-**📸 Caption:**
-500°F protection that actually GRIPS 🧤🔥 Flexible silicone mitts that don't get stiff. Washable, heatproof, comfortable.
-
-💰 $14.99 — Link in bio to shop! 🔗
-
-**🏷️ Hashtags:** #BakingEssentials #OvenMitts #KitchenSafety #HomeBaking #KitchenDining
-
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+**Concept:** Before/after: scratched pan vs silicone utensil → reaction → price text overlay
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Silicone Cooking Utensils Set" (top) → "$19.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
 
 ---
-### Reusable Silicone Food Lids ($12.99)
 
-**📸 Caption:**
-Ditch plastic wrap forever 🫙 BPA-free stretch lids that seal ANY bowl. Set of 6 sizes. Airtight, microwave safe, zero waste.
+## Electric Salt & Pepper Grinders  —  $24.99
 
-💰 $12.99 — Link in bio to shop! 🔗
+**Category:** Kitchen & Dining
 
-**🏷️ Hashtags:** #EcoFriendly #KitchenHack #ZeroWaste #FoodStorage #KitchenDining
+### 📱 Feed Post Caption
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+One-touch battery-operated grinders with adjustable coarseness. Fresh seasoning at your fingertips. 💰 Only $24.99. Tap the link in our bio to shop! 🔗✨
 
----
-### Water Flosser (Cordless) ($29.99)
+### 🏷️ Hashtags (max 30)
 
-**📸 Caption:**
-Your dentist will notice 🦷✨ Cordless water flosser with 3 modes. IPX7 waterproof, 200ml tank. Deeper clean than string floss.
+#KitchenDining #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #KitchenFinds
 
-💰 $29.99 — Link in bio to shop! 🔗
+### 📖 Story Sequence (3 slides)
 
-**🏷️ Hashtags:** #OralCare #WaterFlosser #DentalHygiene #SelfCare #BathroomPersonalCare
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+### 🎬 Reel Script (15-30 sec)
 
----
-### Electric Toothbrush Heads (10-pack) ($12.99)
-
-**📸 Caption:**
-10 heads for the price of 2 brand-name ones 🪥 Universal fit, color-coded rings, DuPont bristles. Stock up!
-
-💰 $12.99 — Link in bio to shop! 🔗
-
-**🏷️ Hashtags:** #ToothbrushHeads #OralCare #ValueDeal #DentalCare #BathroomPersonalCare
-
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+**Concept:** Speed through kitchen setup: product unbox → use → smile → 'link in bio'
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Electric Salt & Pepper Grinders" (top) → "$24.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
 
 ---
-### Shower Head Filter ($22.99)
 
-**📸 Caption:**
-Your hair will thank you 🚿💧 15-stage filtration removes chlorine & hard minerals. Softer skin, shinier hair in 1 shower.
+## Sink Drain Strainer / Stopper  —  $9.99
 
-💰 $22.99 — Link in bio to shop! 🔗
+**Category:** Kitchen & Dining
 
-**🏷️ Hashtags:** #ShowerFilter #HairCare #SkinCare #BathroomUpgrade #BathroomPersonalCare
+### 📱 Feed Post Caption
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+Silicone universal-fit strainer that catches debris and doubles as a stopper. 💰 Only $9.99. Tap the link in our bio to shop! 🔗✨
 
----
-### Bathroom Over-the-Door Hooks ($11.99)
+### 🏷️ Hashtags (max 30)
 
-**📸 Caption:**
-Zero drilling, instant storage 🪝 Stainless steel hooks hold 10 lbs each. Foam-padded, fits any door. Renter-friendly!
+#KitchenDining #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #KitchenFinds
 
-💰 $11.99 — Link in bio to shop! 🔗
+### 📖 Story Sequence (3 slides)
 
-**🏷️ Hashtags:** #BathroomOrganization #RenterFriendly #StorageHack #HomeOrganization #BathroomPersonalCare
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+### 🎬 Reel Script (15-30 sec)
 
----
-### Travel Toiletries Bottles Set ($13.99)
-
-**📸 Caption:**
-TSA-approved & leakproof 🧴✈️ 4 silicone squeeze bottles. No more exploding shampoo in your bag. Carry-on ready!
-
-💰 $13.99 — Link in bio to shop! 🔗
-
-**🏷️ Hashtags:** #TravelEssentials #TSAApproved #PackingHack #TravelGear #BathroomPersonalCare
-
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+**Concept:** Unbox → show product in action (cooking demo) → close-up of feature → price reveal → CTA
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Sink Drain Strainer / Stopper" (top) → "$9.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
 
 ---
-### Laptop Stand (Foldable/Aluminum) ($27.99)
 
-**📸 Caption:**
-Fix your posture in 5 seconds 💻 Ergonomic aluminum stand. Raises screen to eye level, folds flat for travel. Neck pain = gone.
+## Silicone Oven Mitts  —  $14.99
 
-💰 $27.99 — Link in bio to shop! 🔗
+**Category:** Kitchen & Dining
 
-**🏷️ Hashtags:** #WFH #ErgonomicSetup #DeskSetup #HomeOffice #HomeOffice
+### 📱 Feed Post Caption
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+Heatproof to 500°F with a textured grip. Fully washable and flexible. 💰 Only $14.99. Tap the link in our bio to shop! 🔗✨
 
----
-### Desk Organizer (Bamboo) ($18.99)
+### 🏷️ Hashtags (max 30)
 
-**📸 Caption:**
-Your desk deserves this 🗂️🌿 Multi-compartment bamboo organizer. Pens, phone, sticky notes — everything has a home.
+#KitchenDining #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #KitchenFinds
 
-💰 $18.99 — Link in bio to shop! 🔗
+### 📖 Story Sequence (3 slides)
 
-**🏷️ Hashtags:** #DeskOrganization #DeskSetup #WFHEssentials #BambooProducts #HomeOffice
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+### 🎬 Reel Script (15-30 sec)
 
----
-### Mouse Pad with Wrist Support ($14.99)
-
-**📸 Caption:**
-Goodbye wrist pain 🖱️💆 Gel wrist rest + smooth tracking surface. Memory foam, non-slip base. 8-hour workdays just got comfy.
-
-💰 $14.99 — Link in bio to shop! 🔗
-
-**🏷️ Hashtags:** #ErgonomicSetup #WFHComfort #MousePad #DeskAccessories #HomeOffice
-
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+**Concept:** Before/after: scratched pan vs silicone utensil → reaction → price text overlay
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Silicone Oven Mitts" (top) → "$14.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
 
 ---
-### Cable Management Box ($16.99)
 
-**📸 Caption:**
-Hide the spaghetti 🍝🔌 Stylish box that hides power strips & cables. Ventilated, modern design. Instant desk glow-up.
+## Reusable Silicone Food Lids  —  $12.99
 
-💰 $16.99 — Link in bio to shop! 🔗
+**Category:** Kitchen & Dining
 
-**🏷️ Hashtags:** #CableManagement #DeskSetup #WFH #TechOrganization #HomeOffice
+### 📱 Feed Post Caption
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+Stretch-fit BPA-free lids that create an airtight seal on bowls, cans, and cut produce. 💰 Only $12.99. Tap the link in our bio to shop! 🔗✨
 
----
-### Phone/Tablet Stand (Adjustable) ($11.99)
+### 🏷️ Hashtags (max 30)
 
-**📸 Caption:**
-Hands-free everything 📱 Adjustable, foldable, universal. Perfect for video calls, recipes, Netflix. Fits in your pocket.
+#KitchenDining #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #KitchenFinds
 
-💰 $11.99 — Link in bio to shop! 🔗
+### 📖 Story Sequence (3 slides)
 
-**🏷️ Hashtags:** #PhoneStand #DeskAccessories #WFH #TechGadgets #HomeOffice
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+### 🎬 Reel Script (15-30 sec)
 
----
-### Packing Cubes (Travel Set) ($21.99)
-
-**📸 Caption:**
-Pack 2x more in the same suitcase 🧳 Compression zippers + breathable mesh. 4-6 piece set. Packing has never been this satisfying.
-
-💰 $21.99 — Link in bio to shop! 🔗
-
-**🏷️ Hashtags:** #TravelHack #PackingCubes #TravelOrganization #TravelEssentials #StorageOrganization
-
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+**Concept:** Speed through kitchen setup: product unbox → use → smile → 'link in bio'
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Reusable Silicone Food Lids" (top) → "$12.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
 
 ---
-### Jewelry Organizer Box (Travel) ($15.99)
 
-**📸 Caption:**
-No more tangled necklaces 💍✨ Roll-up travel case with soft interior. Multiple compartments. Compact & elegant.
+## Water Flosser (Cordless)  —  $29.99
 
-💰 $15.99 — Link in bio to shop! 🔗
+**Category:** Bathroom & Personal Care
 
-**🏷️ Hashtags:** #JewelryOrganization #TravelGear #AccessoriesStorage #TravelHack #StorageOrganization
+### 📱 Feed Post Caption
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+Rechargeable cordless water flosser with 3 pressure modes for deep gum cleaning. 💰 Only $29.99. Tap the link in our bio to shop! 🔗✨
 
----
-### Under-Sink Organizer (Slide-out) ($19.99)
+### 🏷️ Hashtags (max 30)
 
-**📸 Caption:**
-The cabinet glow-up you need 🧹🚿 2-tier slide-out shelves. No tools, 5-minute install. Finally see what's under there!
+#BathroomPersonalCare #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #SelfCare
 
-💰 $19.99 — Link in bio to shop! 🔗
+### 📖 Story Sequence (3 slides)
 
-**🏷️ Hashtags:** #HomeOrganization #StorageHack #KitchenOrganization #BathroomOrganization #StorageOrganization
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+### 🎬 Reel Script (15-30 sec)
 
----
-### Drawer Dividers (Adjustable) ($13.99)
-
-**📸 Caption:**
-Marie Kondo would approve 🗄️ Spring-loaded expandable dividers. Install in SECONDS. No hardware. 4-pack.
-
-💰 $13.99 — Link in bio to shop! 🔗
-
-**🏷️ Hashtags:** #DrawerOrganization #HomeHacks #KonMari #StorageSolutions #StorageOrganization
-
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+**Concept:** Morning routine transition: before water flosser → after glow → price pop-up
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Water Flosser (Cordless)" (top) → "$29.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
 
 ---
-### Reusable Grocery Bags (Foldable) ($8.99)
 
-**📸 Caption:**
-50 lbs in a pouch the size of your palm 🛍️🌍 Foldable heavy-duty bags. Machine washable, 5-pack. Save the planet stylishly.
+## Electric Toothbrush Heads (10-pack)  —  $12.99
 
-💰 $8.99 — Link in bio to shop! 🔗
+**Category:** Bathroom & Personal Care
 
-**🏷️ Hashtags:** #EcoFriendly #ReusableBags #GroceryHack #SustainableLiving #StorageOrganization
+### 📱 Feed Post Caption
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+Universal replacement brush heads compatible with most electric toothbrush brands. 💰 Only $12.99. Tap the link in our bio to shop! 🔗✨
 
----
-### Resistance Bands Set (5-pack) ($14.99)
+### 🏷️ Hashtags (max 30)
 
-**📸 Caption:**
-Your home gym starts here 💪 5 resistance levels, natural latex. Includes door anchor + carry bag. Gym membership = canceled.
+#BathroomPersonalCare #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #SelfCare
 
-💰 $14.99 — Link in bio to shop! 🔗
+### 📖 Story Sequence (3 slides)
 
-**🏷️ Hashtags:** #HomeWorkout #ResistanceBands #FitnessGear #HomeGym #FitnessOutdoor
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+### 🎬 Reel Script (15-30 sec)
 
----
-### Yoga Mat (Non-slip, 6mm+) ($24.99)
-
-**📸 Caption:**
-Downward dog without the slip 🧘 TPE eco mat, 6mm cushion. Non-slip texture. Strap included. Namaste on a budget.
-
-💰 $24.99 — Link in bio to shop! 🔗
-
-**🏷️ Hashtags:** #YogaMat #HomeYoga #FitnessEssentials #YogaLife #FitnessOutdoor
-
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+**Concept:** Bathroom glow-up montage: install product → demo → satisfied smile → CTA
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Electric Toothbrush Heads (10-pack)" (top) → "$12.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
 
 ---
-### Travel Neck Pillow (Memory Foam) ($16.99)
 
-**📸 Caption:**
-Actually sleep on planes 😴✈️ Memory foam + snap closure + washable cover. Compact carry bag. No more head-bobbing.
+## Shower Head Filter  —  $22.99
 
-💰 $16.99 — Link in bio to shop! 🔗
+**Category:** Bathroom & Personal Care
 
-**🏷️ Hashtags:** #TravelComfort #NeckPillow #TravelEssentials #FlightHack #FitnessOutdoor
+### 📱 Feed Post Caption
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+15-stage filtration removes chlorine and hard water minerals for healthier skin and hair. 💰 Only $22.99. Tap the link in our bio to shop! 🔗✨
 
----
-### Garden Gloves (Puncture Resistant) ($9.99)
+### 🏷️ Hashtags (max 30)
 
-**📸 Caption:**
-Rose thorns don't stand a chance 🧤🌹 Rubber-coated, puncture-resistant. Breathable back. Your hands deserve protection.
+#BathroomPersonalCare #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #SelfCare
 
-💰 $9.99 — Link in bio to shop! 🔗
+### 📖 Story Sequence (3 slides)
 
-**🏷️ Hashtags:** #Gardening #GardenTools #GreenThumb #OutdoorLiving #FitnessOutdoor
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+### 🎬 Reel Script (15-30 sec)
 
----
-### Plant Watering Globes (Glass) ($12.99)
-
-**📸 Caption:**
-Water your plants WHILE you're on vacation 🌱💧 Hand-blown glass self-watering globes. Decorative + functional. 4-pack.
-
-💰 $12.99 — Link in bio to shop! 🔗
-
-**🏷️ Hashtags:** #PlantLover #SelfWatering #IndoorPlants #GardenHack #FitnessOutdoor
-
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+**Concept:** Side-by-side: with vs without the product → text overlay with price → bio link
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Shower Head Filter" (top) → "$22.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
 
 ---
-### Car Phone Mount (Magnetic/Clip) ($13.99)
 
-**📸 Caption:**
-Snap on, drive safe 📱🚗 Vent/dash mount with 360° rotation. Strong magnet OR spring clip. Universal fit. No more looking down.
+## Bathroom Over-the-Door Hooks  —  $11.99
 
-💰 $13.99 — Link in bio to shop! 🔗
+**Category:** Bathroom & Personal Care
 
-**🏷️ Hashtags:** #CarAccessories #PhoneMount #CarHack #DrivingSafety #AutoTech
+### 📱 Feed Post Caption
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+No-drill stainless steel over-the-door hooks that hold up to 10 lbs each. 💰 Only $11.99. Tap the link in our bio to shop! 🔗✨
 
----
-### Car Trash Can (Collapsible) ($11.99)
+### 🏷️ Hashtags (max 30)
 
-**📸 Caption:**
-Stop trashing your car 🗑️🚙 Waterproof, collapsible, clips anywhere. Leak-proof liner. Finally a clean passenger seat.
+#BathroomPersonalCare #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #SelfCare
 
-💰 $11.99 — Link in bio to shop! 🔗
+### 📖 Story Sequence (3 slides)
 
-**🏷️ Hashtags:** #CarOrganization #CarAccessories #CleanCar #AutoEssentials #AutoTech
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+### 🎬 Reel Script (15-30 sec)
 
----
-### Bluetooth Key Finder ($19.99)
-
-**📸 Caption:**
-Never lose your keys again 🔑📡 Tile-style tracker. 100ft range, replaceable battery. Also finds your phone!
-
-💰 $19.99 — Link in bio to shop! 🔗
-
-**🏷️ Hashtags:** #KeyFinder #BluetoothTracker #TechGadgets #OrganizationHack #AutoTech
-
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+**Concept:** Morning routine transition: before water flosser → after glow → price pop-up
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Bathroom Over-the-Door Hooks" (top) → "$11.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
 
 ---
-### Smart Plugs (WiFi, 2-pack) ($17.99)
 
-**📸 Caption:**
-Make ANYTHING smart 🔌🗣️ WiFi plugs — works with Alexa & Google. Voice control, schedules, timers. 2-pack value.
+## Travel Toiletries Bottles Set  —  $13.99
 
-💰 $17.99 — Link in bio to shop! 🔗
+**Category:** Bathroom & Personal Care
 
-**🏷️ Hashtags:** #SmartHome #SmartPlug #HomeAutomation #AlexaCompatible #AutoTech
+### 📱 Feed Post Caption
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+Leakproof TSA-approved silicone bottles for shampoo, conditioner, and lotion on the go. 💰 Only $13.99. Tap the link in our bio to shop! 🔗✨
 
----
-### LED Strip Lights (5m/16ft) ($15.99)
+### 🏷️ Hashtags (max 30)
 
-**📸 Caption:**
-Room transformation in 10 minutes 💡🎨 16M colors, app control, music sync. 5 meters. Your room = TikTok famous.
+#BathroomPersonalCare #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #SelfCare
 
-💰 $15.99 — Link in bio to shop! 🔗
+### 📖 Story Sequence (3 slides)
 
-**🏷️ Hashtags:** #LEDLights #RoomMakeover #GamerSetup #RoomDecor #AutoTech
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+### 🎬 Reel Script (15-30 sec)
 
----
-### Pet Hair Remover Roller (Reusable) ($12.99)
-
-**📸 Caption:**
-No more sticky sheets 🐕✨ Washable lint roller. Traps pet hair, lint, dust. Forever reusable. Pet owners, this is your sign.
-
-💰 $12.99 — Link in bio to shop! 🔗
-
-**🏷️ Hashtags:** #PetHair #PetOwner #CleaningHack #DogMom #HomePet
-
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+**Concept:** Bathroom glow-up montage: install product → demo → satisfied smile → CTA
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Travel Toiletries Bottles Set" (top) → "$13.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
 
 ---
-### Wall Adhesive Hooks (20-pack) ($9.99)
 
-**📸 Caption:**
-Hang ANYTHING without a single hole 🪝🏠 10 lb capacity per hook. 20-pack. Removable with zero damage. Renters rejoice!
+## Laptop Stand (Foldable/Aluminum)  —  $27.99
 
-💰 $9.99 — Link in bio to shop! 🔗
+**Category:** Home Office
 
-**🏷️ Hashtags:** #RenterFriendly #WallHooks #HomeOrganization #SmallSpaceLiving #HomePet
+### 📱 Feed Post Caption
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+Ergonomic aluminum laptop stand that elevates your screen to eye level and folds flat. 💰 Only $27.99. Tap the link in our bio to shop! 🔗✨
 
----
-### Adhesive Cable Clips (50-pack) ($7.99)
+### 🏷️ Hashtags (max 30)
 
-**📸 Caption:**
-Cable chaos = solved 📎🔌 Self-adhesive clips, 50-pack. Multiple sizes, clear design. Desks, walls, floors — tame the mess.
+#HomeOffice #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #WFH
 
-💰 $7.99 — Link in bio to shop! 🔗
+### 📖 Story Sequence (3 slides)
 
-**🏷️ Hashtags:** #CableManagement #TechOrganization #DeskSetup #HomeHack #HomePet
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+### 🎬 Reel Script (15-30 sec)
 
----
-### Under-Cabinet Lights (Motion Sensor) ($19.99)
-
-**📸 Caption:**
-Walk into a lit kitchen at 2am 💡🚶 Motion sensor, rechargeable, stick-on. 3 brightness levels. No electrician needed.
-
-💰 $19.99 — Link in bio to shop! 🔗
-
-**🏷️ Hashtags:** #KitchenLighting #MotionSensor #SmartHome #HomeUpgrade #HomePet
-
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+**Concept:** Setup tour snippet: show one product → feature highlight → 'linked in bio'
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Laptop Stand (Foldable/Aluminum)" (top) → "$27.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
 
 ---
-### Door Draft Stopper (Weatherstrip) ($9.99)
 
-**📸 Caption:**
-Lower your energy bill for $10 🚪❄️ Blocks drafts, dust & noise. Adhesive, cut-to-fit. Pays for itself in one month.
+## Desk Organizer (Bamboo)  —  $18.99
 
-💰 $9.99 — Link in bio to shop! 🔗
+**Category:** Home Office
 
-**🏷️ Hashtags:** #EnergySaving #HomeImprovement #Weatherproofing #HomeHacks #HomePet
+### 📱 Feed Post Caption
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+Multi-compartment bamboo desk organizer for pens, phone, and small office supplies. 💰 Only $18.99. Tap the link in our bio to shop! 🔗✨
 
----
-### Electric Water Guns ($22.99)
+### 🏷️ Hashtags (max 30)
 
-**📸 Caption:**
-NO pumping. ALL soaking. 🔫💦 Automatic electric water gun. Rechargeable, 300+ shots. Win every water fight this summer.
+#HomeOffice #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #WFH
 
-💰 $22.99 — Link in bio to shop! 🔗
+### 📖 Story Sequence (3 slides)
 
-**🏷️ Hashtags:** #SummerFun #WaterGun #PoolParty #Summer2024 #SummerToys
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+### 🎬 Reel Script (15-30 sec)
 
----
-### Auto Bubble Machines ($18.99)
-
-**📸 Caption:**
-HUNDREDS of bubbles per minute 🫧🎉 Battery or USB. Large reservoir. Non-toxic solution. Kids lose their minds (in a good way).
-
-💰 $18.99 — Link in bio to shop! 🔗
-
-**🏷️ Hashtags:** #BubbleMachine #KidsParty #SummerFun #OutdoorToys #SummerToys
-
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+**Concept:** Desk transformation: messy → organized with product → timelapse → CTA
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Desk Organizer (Bamboo)" (top) → "$18.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
 
 ---
-### Bubble Lawn Mowers ($16.99)
 
-**📸 Caption:**
-They 'help' with yard work AND blow bubbles 🫧🌿 Push-along toy, no batteries. Bubbles = endless toddler entertainment.
+## Mouse Pad with Wrist Support  —  $14.99
 
-💰 $16.99 — Link in bio to shop! 🔗
+**Category:** Home Office
 
-**🏷️ Hashtags:** #ToddlerToys #OutdoorPlay #BubbleToy #KidsActivities #SummerToys
+### 📱 Feed Post Caption
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+Ergonomic gel wrist rest mouse pad with a smooth non-slip surface for all-day comfort. 💰 Only $14.99. Tap the link in our bio to shop! 🔗✨
 
----
-### Bubble Guns ($10.99)
+### 🏷️ Hashtags (max 30)
 
-**📸 Caption:**
-LED lights + rapid-fire bubbles 🔫🫧✨ Dip & go. Lightweight. The toy every kid fights over at the birthday party.
+#HomeOffice #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #WFH
 
-💰 $10.99 — Link in bio to shop! 🔗
+### 📖 Story Sequence (3 slides)
 
-**🏷️ Hashtags:** #BubbleGun #KidsToys #PartyFavors #OutdoorToys #SummerToys
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+### 🎬 Reel Script (15-30 sec)
 
----
-### Bubble Leaf Blowers ($14.99)
-
-**📸 Caption:**
-A leaf blower that blows BUBBLES 🍃🫧 Realistic design, safe for kids, batteries included. 'Helping dad' just got adorable.
-
-💰 $14.99 — Link in bio to shop! 🔗
-
-**🏷️ Hashtags:** #KidsToys #OutdoorToys #BubbleFun #PretendPlay #SummerToys
-
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+**Concept:** POV: your WFH setup after this upgrade → slow pan of desk → price reveal
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Mouse Pad with Wrist Support" (top) → "$14.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
 
 ---
-### Portable Neck Fans ($17.99)
 
-**📸 Caption:**
-Personal AC around your neck 🌀❄️ Hands-free, bladeless, 3 speeds. USB rechargeable. Disney World essential.
+## Cable Management Box  —  $16.99
 
-💰 $17.99 — Link in bio to shop! 🔗
+**Category:** Home Office
 
-**🏷️ Hashtags:** #NeckFan #SummerGadget #StayCool #PortableFan #SummerToys
+### 📱 Feed Post Caption
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+Stylish box that hides power strips and excess cables, keeping your desk clutter-free. 💰 Only $16.99. Tap the link in our bio to shop! 🔗✨
 
----
-### Handheld Turbo Fans ($13.99)
+### 🏷️ Hashtags (max 30)
 
-**📸 Caption:**
-Pocket-sized hurricane 💨⚡ 5 speeds including TURBO. USB-C charging. Fits in your pocket. Instant relief anywhere.
+#HomeOffice #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #WFH
 
-💰 $13.99 — Link in bio to shop! 🔗
+### 📖 Story Sequence (3 slides)
 
-**🏷️ Hashtags:** #HandheldFan #SummerEssentials #PortableFan #StayCool #SummerToys
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+### 🎬 Reel Script (15-30 sec)
 
----
-### Bluetooth Speakers ($25.99)
-
-**📸 Caption:**
-Pool. Beach. Shower. ANYWHERE. 🔊🌊 IPX7 waterproof, 10-hour battery, rich bass. The speaker that survives everything.
-
-💰 $25.99 — Link in bio to shop! 🔗
-
-**🏷️ Hashtags:** #BluetoothSpeaker #WaterproofSpeaker #PoolParty #TechGadgets #SummerToys
-
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+**Concept:** Setup tour snippet: show one product → feature highlight → 'linked in bio'
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Cable Management Box" (top) → "$16.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
 
 ---
-### Wireless Earbuds ($29.99)
 
-**📸 Caption:**
-AirPod quality, Ramen price 🎧✨ True wireless, touch controls, 24hr total playback. Noise isolation. The upgrade you deserve.
+## Phone/Tablet Stand (Adjustable)  —  $11.99
 
-💰 $29.99 — Link in bio to shop! 🔗
+**Category:** Home Office
 
-**🏷️ Hashtags:** #WirelessEarbuds #TechDeals #BudgetTech #AudioGear #SummerToys
+### 📱 Feed Post Caption
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+Universal adjustable stand for phones and tablets — foldable and portable. 💰 Only $11.99. Tap the link in our bio to shop! 🔗✨
 
----
-### Cordless Handheld Vacuums ($34.99)
+### 🏷️ Hashtags (max 30)
 
-**📸 Caption:**
-Spills happen. This handles them. 🧹⚡ Cordless, HEPA filter, lightweight. Car crumbs, pet hair, kitchen messes — GONE.
+#HomeOffice #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #WFH
 
-💰 $34.99 — Link in bio to shop! 🔗
+### 📖 Story Sequence (3 slides)
 
-**🏷️ Hashtags:** #HandheldVacuum #CleaningHack #CarCleaning #PetOwner #SummerToys
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+### 🎬 Reel Script (15-30 sec)
 
----
-### Kitchen Knife Sets ($39.99)
-
-**📸 Caption:**
-Restaurant-quality cuts at home 🔪✨ 6-piece stainless steel set with wooden block. Chef, bread, utility, paring — complete.
-
-💰 $39.99 — Link in bio to shop! 🔗
-
-**🏷️ Hashtags:** #KitchenKnives #CookingEssentials #KitchenUpgrade #ChefLife #SummerToys
-
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+**Concept:** Desk transformation: messy → organized with product → timelapse → CTA
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Phone/Tablet Stand (Adjustable)" (top) → "$11.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
 
 ---
-### Smart Watches ($44.99)
 
-**📸 Caption:**
-Your wrist just got smarter ⌚💪 Heart rate, sleep, SpO2, notifications. 7-day battery. Apple Watch vibes, fraction of price.
+## Packing Cubes (Travel Set)  —  $21.99
 
-💰 $44.99 — Link in bio to shop! 🔗
+**Category:** Storage & Organization
 
-**🏷️ Hashtags:** #SmartWatch #FitnessTracker #TechDeals #WearableTech #SummerToys
+### 📱 Feed Post Caption
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+4-6 piece compression packing cubes that maximize suitcase space and keep clothes organized. 💰 Only $21.99. Tap the link in our bio to shop! 🔗✨
 
----
-### LED Makeup Mirrors ($27.99)
+### 🏷️ Hashtags (max 30)
 
-**📸 Caption:**
-Flawless makeup, every time 🪞💄 LED ring, 3 color modes, adjustable brightness. Tabletop design. Influencer setup on a budget.
+#StorageOrganization #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #GetOrganized
 
-💰 $27.99 — Link in bio to shop! 🔗
+### 📖 Story Sequence (3 slides)
 
-**🏷️ Hashtags:** #MakeupMirror #BeautyTools #VanitySetup #MakeupArtist #SummerToys
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+### 🎬 Reel Script (15-30 sec)
 
----
-### Purse Organizers / Bag Inserts ($15.99)
-
-**📸 Caption:**
-Switch bags in 3 seconds 👜✨ Felt insert with multiple pockets. Find your keys instantly. Multiple sizes available.
-
-💰 $15.99 — Link in bio to shop! 🔗
-
-**🏷️ Hashtags:** #PurseOrganizer #BagOrganization #HandbagLover #OrganizationHack #SummerToys
-
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+**Concept:** Pack with me: travel cubes in action → suitcase zip → price text
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Packing Cubes (Travel Set)" (top) → "$21.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
 
 ---
-### Compact Travel Mirrors ($12.99)
 
-**📸 Caption:**
-Touch-ups anywhere 🪞✈️ Slim folding mirror with LED lights. Battery powered. Fits in any clutch. Festival-ready.
+## Jewelry Organizer Box (Travel)  —  $15.99
 
-💰 $12.99 — Link in bio to shop! 🔗
+**Category:** Storage & Organization
 
-**🏷️ Hashtags:** #TravelMirror #BeautyOnTheGo #TravelEssentials #MakeupTool #SummerToys
+### 📱 Feed Post Caption
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+Compact roll-up jewelry case with multiple compartments — perfect for travel. 💰 Only $15.99. Tap the link in our bio to shop! 🔗✨
 
----
-### Portable LED Vanity Mirrors ($19.99)
+### 🏷️ Hashtags (max 30)
 
-**📸 Caption:**
-Studio lighting on your desk 💄💡 LED ring light + adjustable angle + touch dimmer. USB powered. Content creator essential.
+#StorageOrganization #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #GetOrganized
 
-💰 $19.99 — Link in bio to shop! 🔗
+### 📖 Story Sequence (3 slides)
 
-**🏷️ Hashtags:** #VanityMirror #ContentCreator #BeautySetup #RingLight #SummerToys
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+### 🎬 Reel Script (15-30 sec)
 
----
-### Solar Pathway Lights ($24.99)
-
-**📸 Caption:**
-Your garden, illuminated 🛤️☀️ Solar-powered, auto on at dusk. Weatherproof. 8-pack. Curb appeal on a budget.
-
-💰 $24.99 — Link in bio to shop! 🔗
-
-**🏷️ Hashtags:** #SolarLights #GardenDecor #OutdoorLighting #CurbAppeal #SummerToys
-
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+**Concept:** Drawer glow-up: before mess → divider install → after perfection → CTA
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Jewelry Organizer Box (Travel)" (top) → "$15.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
 
 ---
-### Solar Motion Sensor Floodlights ($29.99)
 
-**📸 Caption:**
-Security + solar = genius ☀️🔦 120° motion detection. IP65 waterproof. Zero wiring. Mount anywhere the sun reaches.
+## Under-Sink Organizer (Slide-out)  —  $19.99
 
-💰 $29.99 — Link in bio to shop! 🔗
+**Category:** Storage & Organization
 
-**🏷️ Hashtags:** #SolarFloodlight #HomeSecurity #OutdoorLighting #SolarPower #SummerToys
+### 📱 Feed Post Caption
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+2-tier slide-out organizer with no tools required — maximizes under-sink storage. 💰 Only $19.99. Tap the link in our bio to shop! 🔗✨
 
----
-### Wireless Outdoor Security Cameras ($39.99)
+### 🏷️ Hashtags (max 30)
 
-**📸 Caption:**
-See everything from your phone 📷🏠 1080p, night vision, two-way audio, motion alerts. WiFi-enabled peace of mind.
+#StorageOrganization #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #GetOrganized
 
-💰 $39.99 — Link in bio to shop! 🔗
+### 📖 Story Sequence (3 slides)
 
-**🏷️ Hashtags:** #SecurityCamera #HomeSecurity #SmartHome #OutdoorCamera #SummerToys
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+### 🎬 Reel Script (15-30 sec)
 
----
-### Solar Security Cameras ($49.99)
-
-**📸 Caption:**
-100% wire-free security 📸☀️ Solar-powered, PIR motion detection, 1080p HD. Install anywhere. Never charge a battery.
-
-💰 $49.99 — Link in bio to shop! 🔗
-
-**🏷️ Hashtags:** #SolarCamera #HomeSecurity #WireFree #SmartHome #SummerToys
-
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+**Concept:** Satisfying organizing timelapse: chaos → cubes/dividers → perfect order
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Under-Sink Organizer (Slide-out)" (top) → "$19.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
 
 ---
-### Smart Power Banks ($26.99)
 
-**📸 Caption:**
-Charge 4+ phones on one charge 🔋⚡ 20,000mAh, fast charging, digital display. Dual USB ports. Never hunt for an outlet again.
+## Drawer Dividers (Adjustable)  —  $13.99
 
-💰 $26.99 — Link in bio to shop! 🔗
+**Category:** Storage & Organization
 
-**🏷️ Hashtags:** #PowerBank #BatteryLife #TechEssentials #TravelGear #SummerToys
+### 📱 Feed Post Caption
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+Expandable spring-loaded drawer dividers that install in seconds — no hardware needed. 💰 Only $13.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#StorageOrganization #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #GetOrganized
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Pack with me: travel cubes in action → suitcase zip → price text
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Drawer Dividers (Adjustable)" (top) → "$13.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
 
 ---
-### LED Desk Lamps ($32.99)
 
-**📸 Caption:**
-Eye-care lighting that looks premium 💡✨ Adjustable arm, 5 color temperatures, USB port. Your desk's missing piece.
+## Reusable Grocery Bags (Foldable)  —  $8.99
 
-💰 $32.99 — Link in bio to shop! 🔗
+**Category:** Storage & Organization
 
-**🏷️ Hashtags:** #DeskLamp #DeskSetup #WFH #HomeOffice #SummerToys
+### 📱 Feed Post Caption
 
-**🎬 Reel Idea:** Quick 15-sec demo — unbox, show key feature, reaction shot, price reveal, CTA to bio link.
+Heavy-duty foldable bags that each hold up to 50 lbs — an eco-friendly shopping essential. 💰 Only $8.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#StorageOrganization #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #GetOrganized
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Drawer glow-up: before mess → divider install → after perfection → CTA
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Reusable Grocery Bags (Foldable)" (top) → "$8.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Resistance Bands Set (5-pack)  —  $14.99
+
+**Category:** Fitness & Outdoor
+
+### 📱 Feed Post Caption
+
+5 latex bands with different resistance levels — perfect for home workouts and rehab. 💰 Only $14.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#FitnessOutdoor #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #FitnessJourney
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Workout snippet: bands/yoga mat in use → sweat → price overlay
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Resistance Bands Set (5-pack)" (top) → "$14.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Yoga Mat (Non-slip, 6mm+)  —  $24.99
+
+**Category:** Fitness & Outdoor
+
+### 📱 Feed Post Caption
+
+TPE/PVC non-slip yoga mat with 6mm cushioning — rolls up with included strap. 💰 Only $24.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#FitnessOutdoor #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #FitnessJourney
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Garden time-lapse: watering globes in plants → 3 days later → thriving
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Yoga Mat (Non-slip, 6mm+)" (top) → "$24.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Travel Neck Pillow (Memory Foam)  —  $16.99
+
+**Category:** Fitness & Outdoor
+
+### 📱 Feed Post Caption
+
+Memory foam neck pillow with a snap strap and compact carrying bag — travel comfort essential. 💰 Only $16.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#FitnessOutdoor #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #FitnessJourney
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Outdoor gear test: product in action → thumbs up → 'shop the link'
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Travel Neck Pillow (Memory Foam)" (top) → "$16.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Garden Gloves (Puncture Resistant)  —  $9.99
+
+**Category:** Fitness & Outdoor
+
+### 📱 Feed Post Caption
+
+One-size rubber-coated garden gloves that protect against thorns and sharp branches. 💰 Only $9.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#FitnessOutdoor #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #FitnessJourney
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Workout snippet: bands/yoga mat in use → sweat → price overlay
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Garden Gloves (Puncture Resistant)" (top) → "$9.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Plant Watering Globes (Glass)  —  $12.99
+
+**Category:** Fitness & Outdoor
+
+### 📱 Feed Post Caption
+
+Decorative glass self-watering globes that keep plants hydrated for days. 💰 Only $12.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#FitnessOutdoor #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #FitnessJourney
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Garden time-lapse: watering globes in plants → 3 days later → thriving
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Plant Watering Globes (Glass)" (top) → "$12.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Car Phone Mount (Magnetic/Clip)  —  $13.99
+
+**Category:** Auto & Tech
+
+### 📱 Feed Post Caption
+
+Universal vent/dash phone mount with strong magnetic grip or spring-loaded clip. 💰 Only $13.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#AutoTech #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #TechLife
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** POV: your car after these upgrades → pan of interior → CTA
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Car Phone Mount (Magnetic/Clip)" (top) → "$13.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Car Trash Can (Collapsible)  —  $11.99
+
+**Category:** Auto & Tech
+
+### 📱 Feed Post Caption
+
+Waterproof collapsible car trash can that clips to the seat back or center console. 💰 Only $11.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#AutoTech #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #TechLife
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Car setup: mount install → phone clip → drive test → price reveal
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Car Trash Can (Collapsible)" (top) → "$11.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Bluetooth Key Finder  —  $19.99
+
+**Category:** Auto & Tech
+
+### 📱 Feed Post Caption
+
+Tile-style Bluetooth tracker with replaceable battery — never lose your keys again. 💰 Only $19.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#AutoTech #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #TechLife
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Tech unbox + setup: lights/speakers in action → vibe check → CTA
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Bluetooth Key Finder" (top) → "$19.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Smart Plugs (WiFi, 2-pack)  —  $17.99
+
+**Category:** Auto & Tech
+
+### 📱 Feed Post Caption
+
+WiFi smart plugs compatible with Alexa and Google Home for voice-controlled automation. 💰 Only $17.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#AutoTech #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #TechLife
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** POV: your car after these upgrades → pan of interior → CTA
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Smart Plugs (WiFi, 2-pack)" (top) → "$17.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## LED Strip Lights (5m/16ft)  —  $15.99
+
+**Category:** Auto & Tech
+
+### 📱 Feed Post Caption
+
+RGB LED strip lights with app control and music sync — transform any room in minutes. 💰 Only $15.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#AutoTech #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #TechLife
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Car setup: mount install → phone clip → drive test → price reveal
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "LED Strip Lights (5m/16ft)" (top) → "$15.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Pet Hair Remover Roller (Reusable)  —  $12.99
+
+**Category:** Home & Pet
+
+### 📱 Feed Post Caption
+
+Washable lint roller that traps pet hair without sticky sheets — eco-friendly and reusable. 💰 Only $12.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#HomePet #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #PetParents
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Hidden cable mess → clip install montage → satisfying clean result
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Pet Hair Remover Roller (Reusable)" (top) → "$12.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Wall Adhesive Hooks (20-pack)  —  $9.99
+
+**Category:** Home & Pet
+
+### 📱 Feed Post Caption
+
+Heavy-duty adhesive hooks that hold 10 lbs each with no wall damage — perfect for renters. 💰 Only $9.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#HomePet #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #PetParents
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Night routine: motion lights activate → cozy result → CTA
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Wall Adhesive Hooks (20-pack)" (top) → "$9.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Adhesive Cable Clips (50-pack)  —  $7.99
+
+**Category:** Home & Pet
+
+### 📱 Feed Post Caption
+
+Self-adhesive cable management clips that keep cords tidy on desks, walls, and floors. 💰 Only $7.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#HomePet #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #PetParents
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Pet hair hack: roller on couch → dramatic reveal of clean fabric → CTA
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Adhesive Cable Clips (50-pack)" (top) → "$7.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Under-Cabinet Lights (Motion Sensor)  —  $19.99
+
+**Category:** Home & Pet
+
+### 📱 Feed Post Caption
+
+Stick-on rechargeable motion sensor lights for kitchen cabinets, closets, and stairways. 💰 Only $19.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#HomePet #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #PetParents
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Hidden cable mess → clip install montage → satisfying clean result
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Under-Cabinet Lights (Motion Sensor)" (top) → "$19.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Door Draft Stopper (Weatherstrip)  —  $9.99
+
+**Category:** Home & Pet
+
+### 📱 Feed Post Caption
+
+Adhesive weatherstrip that blocks drafts, dust, and noise — saves on energy bills. 💰 Only $9.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#HomePet #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #PetParents
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Night routine: motion lights activate → cozy result → CTA
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Door Draft Stopper (Weatherstrip)" (top) → "$9.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Electric Water Guns  —  $22.99
+
+**Category:** Summer & Toys
+
+### 📱 Feed Post Caption
+
+High-powered automatic electric water guns — no pumping needed. Perfect for summer water battles. 💰 Only $22.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#SummerToys #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #SummerVibes
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Backyard water fight: guns in action → kids laughing → 'get yours' CTA
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Electric Water Guns" (top) → "$22.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Auto Bubble Machines  —  $18.99
+
+**Category:** Summer & Toys
+
+### 📱 Feed Post Caption
+
+Automatic bubble machine that produces hundreds of bubbles per minute — pure outdoor fun. 💰 Only $18.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#SummerToys #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #SummerVibes
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Bubble machine party: set up → bubbles everywhere → slow-mo joy → price
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Auto Bubble Machines" (top) → "$18.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Bubble Lawn Mowers  —  $16.99
+
+**Category:** Summer & Toys
+
+### 📱 Feed Post Caption
+
+Push-along toy bubble lawn mower that blows bubbles as kids walk — imaginative outdoor play. 💰 Only $16.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#SummerToys #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #SummerVibes
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Summer gadget countdown: 3 products in 30 seconds → CTA each one
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Bubble Lawn Mowers" (top) → "$16.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Bubble Guns  —  $10.99
+
+**Category:** Summer & Toys
+
+### 📱 Feed Post Caption
+
+LED-lit bubble gun that shoots a stream of bubbles with fun lights and sounds. 💰 Only $10.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#SummerToys #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #SummerVibes
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Backyard water fight: guns in action → kids laughing → 'get yours' CTA
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Bubble Guns" (top) → "$10.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Bubble Leaf Blowers  —  $14.99
+
+**Category:** Summer & Toys
+
+### 📱 Feed Post Caption
+
+Toy leaf blower that actually blows bubbles — kids love helping in the yard. 💰 Only $14.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#SummerToys #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #SummerVibes
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Bubble machine party: set up → bubbles everywhere → slow-mo joy → price
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Bubble Leaf Blowers" (top) → "$14.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Portable Neck Fans  —  $17.99
+
+**Category:** Summer & Toys
+
+### 📱 Feed Post Caption
+
+Hands-free wearable neck fan with bladeless design — keeps you cool on the go. 💰 Only $17.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#SummerToys #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #SummerVibes
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Summer gadget countdown: 3 products in 30 seconds → CTA each one
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Portable Neck Fans" (top) → "$17.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Handheld Turbo Fans  —  $13.99
+
+**Category:** Summer & Toys
+
+### 📱 Feed Post Caption
+
+Powerful handheld turbo fan with 5 speeds — pocket-sized cooling anywhere. 💰 Only $13.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#SummerToys #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #SummerVibes
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Backyard water fight: guns in action → kids laughing → 'get yours' CTA
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Handheld Turbo Fans" (top) → "$13.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Bluetooth Speakers  —  $25.99
+
+**Category:** Summer & Toys
+
+### 📱 Feed Post Caption
+
+Portable waterproof Bluetooth speaker with rich bass — pool, beach, and shower ready. 💰 Only $25.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#SummerToys #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #SummerVibes
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Bubble machine party: set up → bubbles everywhere → slow-mo joy → price
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Bluetooth Speakers" (top) → "$25.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Wireless Earbuds  —  $29.99
+
+**Category:** Summer & Toys
+
+### 📱 Feed Post Caption
+
+True wireless earbuds with crystal-clear sound, touch controls, and a compact charging case. 💰 Only $29.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#SummerToys #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #SummerVibes
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Summer gadget countdown: 3 products in 30 seconds → CTA each one
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Wireless Earbuds" (top) → "$29.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Cordless Handheld Vacuums  —  $34.99
+
+**Category:** Summer & Toys
+
+### 📱 Feed Post Caption
+
+Lightweight cordless vacuum for quick clean-ups — car, home, and pet hair. 💰 Only $34.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#SummerToys #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #SummerVibes
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Backyard water fight: guns in action → kids laughing → 'get yours' CTA
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Cordless Handheld Vacuums" (top) → "$34.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Kitchen Knife Sets  —  $39.99
+
+**Category:** Summer & Toys
+
+### 📱 Feed Post Caption
+
+Professional stainless steel knife set with block — chef, bread, utility, and paring knives. 💰 Only $39.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#SummerToys #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #SummerVibes
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Bubble machine party: set up → bubbles everywhere → slow-mo joy → price
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Kitchen Knife Sets" (top) → "$39.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Smart Watches  —  $44.99
+
+**Category:** Summer & Toys
+
+### 📱 Feed Post Caption
+
+Feature-packed smartwatch with heart rate, sleep tracking, SpO2, and notifications. 💰 Only $44.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#SummerToys #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #SummerVibes
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Summer gadget countdown: 3 products in 30 seconds → CTA each one
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Smart Watches" (top) → "$44.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## LED Makeup Mirrors  —  $27.99
+
+**Category:** Summer & Toys
+
+### 📱 Feed Post Caption
+
+Lighted vanity mirror with adjustable brightness and color temperature for flawless makeup. 💰 Only $27.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#SummerToys #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #SummerVibes
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Backyard water fight: guns in action → kids laughing → 'get yours' CTA
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "LED Makeup Mirrors" (top) → "$27.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Purse Organizers / Bag Inserts  —  $15.99
+
+**Category:** Summer & Toys
+
+### 📱 Feed Post Caption
+
+Felt bag insert organizer that keeps your purse tidy and makes switching bags effortless. 💰 Only $15.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#SummerToys #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #SummerVibes
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Bubble machine party: set up → bubbles everywhere → slow-mo joy → price
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Purse Organizers / Bag Inserts" (top) → "$15.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Compact Travel Mirrors  —  $12.99
+
+**Category:** Summer & Toys
+
+### 📱 Feed Post Caption
+
+Slim folding travel mirror with LED lights — perfect for on-the-go touch-ups. 💰 Only $12.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#SummerToys #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #SummerVibes
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Summer gadget countdown: 3 products in 30 seconds → CTA each one
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Compact Travel Mirrors" (top) → "$12.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Portable LED Vanity Mirrors  —  $19.99
+
+**Category:** Summer & Toys
+
+### 📱 Feed Post Caption
+
+Desktop vanity mirror with built-in LED ring light and adjustable stand — studio-quality lighting. 💰 Only $19.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#SummerToys #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #SummerVibes
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Backyard water fight: guns in action → kids laughing → 'get yours' CTA
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Portable LED Vanity Mirrors" (top) → "$19.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Solar Pathway Lights  —  $24.99
+
+**Category:** Summer & Toys
+
+### 📱 Feed Post Caption
+
+Bright solar-powered pathway lights for garden paths and driveways — auto on at dusk. 💰 Only $24.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#SummerToys #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #SummerVibes
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Bubble machine party: set up → bubbles everywhere → slow-mo joy → price
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Solar Pathway Lights" (top) → "$24.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Solar Motion Sensor Floodlights  —  $29.99
+
+**Category:** Summer & Toys
+
+### 📱 Feed Post Caption
+
+Bright solar security floodlight with wide-angle motion detection — no wiring needed. 💰 Only $29.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#SummerToys #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #SummerVibes
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Summer gadget countdown: 3 products in 30 seconds → CTA each one
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Solar Motion Sensor Floodlights" (top) → "$29.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Wireless Outdoor Security Cameras  —  $39.99
+
+**Category:** Summer & Toys
+
+### 📱 Feed Post Caption
+
+1080p WiFi security camera with night vision, two-way audio, and motion alerts. 💰 Only $39.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#SummerToys #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #SummerVibes
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Backyard water fight: guns in action → kids laughing → 'get yours' CTA
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Wireless Outdoor Security Cameras" (top) → "$39.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Solar Security Cameras  —  $49.99
+
+**Category:** Summer & Toys
+
+### 📱 Feed Post Caption
+
+100% wire-free solar-powered security camera — install anywhere the sun reaches. 💰 Only $49.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#SummerToys #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #SummerVibes
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Bubble machine party: set up → bubbles everywhere → slow-mo joy → price
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Solar Security Cameras" (top) → "$49.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## Smart Power Banks  —  $26.99
+
+**Category:** Summer & Toys
+
+### 📱 Feed Post Caption
+
+High-capacity 20,000mAh power bank with fast charging and digital display — charges 4+ phones. 💰 Only $26.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#SummerToys #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #SummerVibes
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Summer gadget countdown: 3 products in 30 seconds → CTA each one
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "Smart Power Banks" (top) → "$26.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
+
+## LED Desk Lamps  —  $32.99
+
+**Category:** Summer & Toys
+
+### 📱 Feed Post Caption
+
+Modern LED desk lamp with adjustable arm, multiple color temperatures, and USB charging port. 💰 Only $32.99. Tap the link in our bio to shop! 🔗✨
+
+### 🏷️ Hashtags (max 30)
+
+#SummerToys #AmazonFinds #ShopSmall #DailyDeals #HomeEssentials #MustHaves #SummerVibes
+
+### 📖 Story Sequence (3 slides)
+
+1. **Slide 1:** Product photo + "You need this 👀" sticker + price tag GIF
+2. **Slide 2:** Feature highlight close-up + poll sticker: "Worth it? 🤔" (Yes/Heck Yes)
+3. **Slide 3:** CTA + "Link in bio 🔗" arrow sticker + countdown sticker for urgency
+
+### 🎬 Reel Script (15-30 sec)
+
+**Concept:** Backyard water fight: guns in action → kids laughing → 'get yours' CTA
+**Music:** Trending audio from Reels library (upbeat, no vocals for voiceover)
+**Text Overlay:** "LED Desk Lamps" (top) → "$32.99" (center pop) → "Link in bio 🔗" (bottom)
+**Call to Action:** 👆 Tap the link in our bio to shop this!
+
+---
